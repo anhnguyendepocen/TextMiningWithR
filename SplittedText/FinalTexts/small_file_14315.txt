@@ -1,0 +1,1 @@
+phone active haptic feedback using keyboard example sending text message typing search bar composing email etc 

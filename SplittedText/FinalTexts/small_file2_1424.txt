@@ -1,0 +1,1 @@
+put audio recording samples 32bit192khz thereabouts using builtin audio recorder use recorder amazing mp3 recorder device capable hires audio 

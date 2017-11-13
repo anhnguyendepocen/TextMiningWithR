@@ -1,0 +1,1 @@
+actually need rulebased firewall monitor able block anyandall unsolicited connections applications need able view edit hosts file basic functions phones currently missing auto application control need manual gui interface simple 
